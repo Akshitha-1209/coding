@@ -14,8 +14,6 @@ class Vote:
 obj=Vote()
 obj.input()
 obj.process()
-obj1=Vote()
-obj1.input()
-obj1.process()
+
 
         
